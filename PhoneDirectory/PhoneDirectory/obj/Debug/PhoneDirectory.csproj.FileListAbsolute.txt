@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Users\bengi\Desktop\C# Projects\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
